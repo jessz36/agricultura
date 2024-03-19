@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+bady{
+
+    background-color:antiquewhite
+    color:aliceblue
+}
+
+.cabecalho{
+    display: flex;
+    background-color:black
+    align-items: center;
+    justify-content:space-around 
+    font-size: 16px;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px
+}
+
+.secao1{
+    display: flex;
+    background: rgb(2,0,36);
+    background:linear-gradient(0deg, rgba(2,0,36,1)0)
+}
